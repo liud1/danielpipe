@@ -132,3 +132,4 @@ sub parseblast {
   }
   close OUT;
 }
+1;
